@@ -1,1 +1,1 @@
-Lista de Exercícios 2 de Algoritmos (Sem enunciado!)
+Lista de Exercícios 2 de Algoritmo (Sem enunciado!)
