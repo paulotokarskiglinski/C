@@ -1,2 +1,2 @@
 ## programasC
-Exercícios resolvidos em linguagem C
+Programas em C.
