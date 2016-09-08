@@ -1,3 +1,2 @@
-Exercícios resolvidos URI Online Judge
-Dificuldade: Iniciante
-(Sem enunciado!)
+Exercícios resolvidos URI Online Judge<br>
+<small>Dificuldade: Iniciante (Sem enunciado!)</small>
