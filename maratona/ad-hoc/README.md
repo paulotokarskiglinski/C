@@ -1,1 +1,2 @@
-Exercícios resolvidos URI Online Judge: Ad-Hoc (Sem enunciado!)
+<strong>Exercícios resolvidos URI Online Judge</strong><br>
+Categoria: Ad-Hoc (Sem enunciado!)
